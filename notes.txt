@@ -1,0 +1,9 @@
+3 features for ind study
+
+description of each parameter (tool tip or english next to letter)
+
+stop day into tank input parameter
+
+alternative plot of % resistant (R/ R + S plot) 
+
+make plot of antibiotics in tank over time 
